@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para Minha Amada</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color:black;
+            color: #fff;
+            padding: 20px;
+        }
+
+        h1 {
+            margin-bottom: 10px;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+        }
+
+        footer {
+            background-color:black;
+            color: #fff;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        button {
+            padding: 10px;
+            background-color: black;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Para a Mulher Mais Especial do Mundo</h1>
+</header>
+
+<section>
+    <p>Meu Amor,</p>
+    <p>Este é um pequeno site dedicado a você, a mulher que ilumina meus dias e enche minha vida de alegria. Aqui estão algumas palavras para expressar o quanto você significa para mim:</p>
+    
+    <blockquote>
+        "Você é a razão do meu sorriso, a inspiração dos meus sonhos e a dona do meu coração. Cada momento contigo é uma página de uma história de amor que eu quero viver para sempre."
+    </blockquote>
+
+    <p>Estou muito grato(a) por ter você ao meu lado. Amo você mais do que as palavras podem expressar.</p>
+
+    <!-- Botão com função de redirecionamento -->
+    <button onclick="redirecionar()">Clique aqui</button>
+
+    <script>
+        function redirecionar() {
+            // Substitua "https://seulink.com" pelo link desejado
+            window.location.href = "https://www.tiktok.com/@luiza.w2/video/7237123161811094790";
+        }
+    </script>
+</section>
+
+<footer>
+    <p>Feito com Carinho Para Minha Rainha|Angel te ama ❤️© 2024</p>
+</footer>
+
+</body>
+</html>
